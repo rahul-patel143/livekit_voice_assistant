@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.env.local
+
+# Virtual environments
+.vscode/
+*.log
+*.sqlite3
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Temporary files
+.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Flask & Audio
+instance/
+*.mp3
+*.wav
