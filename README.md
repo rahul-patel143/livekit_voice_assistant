@@ -133,6 +133,4 @@ kill -9 <PID>   # Kill the process using that port
 ---
 
 ## 👨‍💻 Author
-**Rahul Patel**  
-🚀 Python Developer @ Qrious Tech  
-📞 [LinkedIn](https://www.linkedin.com/in/rahul-patel)
+**Rahul Patel**
